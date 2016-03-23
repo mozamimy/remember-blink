@@ -2,6 +2,8 @@
 
 Remember Web 1.0 with `<blink>` tags.
 
+<img src='https://raw.githubusercontent.com/mozamimy/ss/master/blink.gif' style='width: 500px;'>
+
 ## Install from official add-ons page
 
 https://addons.mozilla.org/en-US/firefox/addon/remember-blink/
