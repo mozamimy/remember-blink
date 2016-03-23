@@ -1,0 +1,16 @@
+{
+  "title": "remember-blink",
+  "name": "remember-blink",
+  "version": "0.0.1",
+  "description": "Remember <blink> tag",
+  "main": "index.js",
+  "author": "Moza USANE <mozamimy@quellencode.org>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
